@@ -17,13 +17,16 @@ on masteri
 This is newone.....
 rebasing conflict
 
-<<<<<<< HEAD
 on master branch
-=======
 on branch b1
+again and again
+<<<<<<< HEAD
+on remote....
+=======
 
+for local commit
 
->>>>>>> 6b0e454 (in b1 branch)
+>>>>>>> 79adcdd (local commit)
 on simple1
 
 
