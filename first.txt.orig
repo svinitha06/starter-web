@@ -2,11 +2,8 @@ first first seconbdnsdfdnshsagaia
 
 on branch
 on new branch
-<<<<<<< HEAD
 one two four
-=======
 one two three
->>>>>>> simple1
 new new
 
 on master
@@ -17,10 +14,16 @@ in simple branch
 
 on masteri
 
+This is newone.....
+rebasing conflict
+
+<<<<<<< HEAD
+on master branch
+=======
+on branch b1
 
 
-
-
+>>>>>>> 6b0e454 (in b1 branch)
 on simple1
 
 
