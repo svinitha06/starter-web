@@ -22,6 +22,8 @@ on branch b1
 again and again
 on remote....
 stashing...stashing....
+
+again text111
 for local commit
 
 on simple1
