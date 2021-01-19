@@ -17,7 +17,7 @@ on masteri
 This is newone.....
 rebasing conflict
 
-
+on master branch
 on simple1
 
 
