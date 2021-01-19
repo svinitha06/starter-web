@@ -2,6 +2,7 @@
 
 Rebasing.........done
 statshing....
+insert new line
 This repository is for showing how Git and GitHub work
 
  This will be in working directory
