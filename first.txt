@@ -15,7 +15,7 @@ in simple branch
 on masteri
 
 This is newone.....
-
+rebasing conflict
 
 
 on simple1
