@@ -21,7 +21,7 @@ on master branch
 on branch b1
 again and again
 on remote....
-
+stashing...stashing....
 for local commit
 
 on simple1
