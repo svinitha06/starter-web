@@ -19,12 +19,12 @@ rebasing conflict
 
 on master branch
 on branch b1
-again and again
-on remote....
-stashing...stashing....
+again and agD
  branch and stashing
-again text111
-for local commit
+
+
+
+
 
 on simple1
 
